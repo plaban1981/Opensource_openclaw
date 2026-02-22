@@ -166,3 +166,16 @@ result = crew.kickoff()
   - 3 pre-loaded sample tasks
   - Real-time stats (Total/Completed/Pending)
   - Beautiful toast notifications for all actions
+
+
+
+
+----
+
+https://medium.com/@joe.njenga/i-tested-claude-code-minimax-m2-5-it-blew-my-mind-with-one-shot-cli-tool-build-451ec2c58b79
+
+https://medium.com/ai-software-engineer/i-tested-new-ollama-launch-for-claude-code-codex-opencode-more-bfae2af3c3db
+
+https://medium.com/@joe.njenga/i-tried-glm-5-on-claude-code-and-discovered-how-to-code-fast-and-save-money-0ab7c25aae67
+
+
